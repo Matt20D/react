@@ -1,0 +1,33 @@
+What do I want
+
+1. Timestamp counter in the bottom left!
+2. Total number of views via a counter!
+3. Obvi all code ported over to React...
+
+the place where i did the tutorial is: github.com/samerbuna/efficient-react
+
+we can do `npm run eject` to download all scripts locally. Copy all configs and scripts locally to the project
+npx create-react-app <app-name>
+
+--------------------------------------------------------------------------------------------------------------
+
+Success! Created md-game-center at /Users/matt20d/Desktop/github_repos/games/platform-game/md-game-center
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd md-game-center
+  npm start
